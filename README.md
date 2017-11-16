@@ -3,7 +3,7 @@
 KERIS-Intel Professional Development Course for SW Education
 Change the world a bette place through create Social Impact Story
 
-왜 마이크로비트인가?
+< 왜 마이크로비트인가? >
 
 1. 교육용 보드로 제작됨
 http://www.bbc.co.uk/mediacentre/latestnews/2017/microbit-first-year
